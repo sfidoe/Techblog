@@ -1,10 +1,10 @@
 [CmdletBinding()]
 Param (
    [Parameter(Mandatory=$true)]
-   [String]$ShortcutTargetPath,
+   [String]$https://gateway.surpass.com/launchtest,
 
    [Parameter(Mandatory=$true)]
-   [String]$ShortcutDisplayName,
+   [String]$Exam,
 
    [Parameter(Mandatory=$false)]
    [Switch]$PinToStart=$false,
